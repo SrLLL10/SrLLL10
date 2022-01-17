@@ -1,6 +1,7 @@
  <h3>Olá, sou o Luís Soares! <⁄>👨‍💻</h3>
  <h4>Seja bem-vindo ao meu perfil! 😄</h4>
-
+ ![giff](https://tenor.com/bN65M.gif)
+ 
 <div align="center">
   <a href="https://github.com/SrLLL10">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SrLLL10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
