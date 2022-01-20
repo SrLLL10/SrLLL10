@@ -1,14 +1,16 @@
  <h3>Olá, sou o Luís Soares! <⁄>👨‍💻</h3>
  <h4>Seja bem-vindo ao meu perfil! 😄</h4>
-
- ![coding](https://user-images.githubusercontent.com/97695565/150355371-37f0813b-bf0e-4bbb-a178-e24414cb8f39.gif)
-
  
-<div align="center">
+<div>
   <a href="https://github.com/SrLLL10">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SrLLL10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLLL10&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLLL10&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img align="center" height="300" width="400"  src="https://user-images.githubusercontent.com/97695565/150355371-37f0813b-bf0e-4bbb-a178-e24414cb8f39.gif">
 </div>
+ 
+  
+ 
+ 
 <div  align="center" style="display: inline_block"><br>
  <h3>Principais tecnologias que trabalho:</h3>
   <img align="center" alt="lll-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
