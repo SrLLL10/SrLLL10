@@ -5,7 +5,7 @@
   <a href="https://github.com/SrLLL10">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SrLLL10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLLL10&layout=compact&langs_count=7&theme=tokyonight"/>
-   <img align="center" height="300" width="400"  src="https://user-images.githubusercontent.com/97695565/150355371-37f0813b-bf0e-4bbb-a178-e24414cb8f39.gif">
+   <img align="right" height="300" width="400"  src="https://user-images.githubusercontent.com/97695565/150355371-37f0813b-bf0e-4bbb-a178-e24414cb8f39.gif">
 </div>
  
   
